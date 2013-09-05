@@ -7,6 +7,7 @@ JSON files for use with the ProcessWire Page List Migrator module
 
 - Get the Page List Migrator module: from https://github.com/adrianbj/ProcessPageListMigrator
 - Install the module and run it from the PW Admin Setup page
+- Download the JSON file for the list you want to import
 - Choose Import and follow the prompts
 
 ##What is does
