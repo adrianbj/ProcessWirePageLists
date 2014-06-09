@@ -1,11 +1,11 @@
 ProcessWirePageLists
 ====================
 
-JSON files for use with the ProcessWire Page Tree Migrator module
+JSON files for use with the ProcessWire Migrator module
 
 ##Usage
 
-- Get the Page Tree Migrator module: from https://github.com/adrianbj/ProcessPageTreeMigrator
+- Get the Migrator module: from https://github.com/adrianbj/ProcessMigrator
 - Install the module and run it from the PW Admin Setup page
 - Choose Import and in the JSON Source section, choose "Shared JSON packages" where you can automatically load any of the packages in this repository.
 
